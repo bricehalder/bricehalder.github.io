@@ -7,8 +7,16 @@ layout: page
 <img src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" alt="Profile Image" />
 </a>
 
-<p> Site is currently under construction. </p>
+### About
 
-<h3>About</h3>
+Hi! I just graduated from Johns Hopkins University with a B.S. in Computer Science. 
+I like to explore a new topic every few months or so, which makes it difficult to
+give an overview of all my interests - but I'll try my best!
+I hope to document and share some of them here.
 
-<p> I'm currently a junior at Johns Hopkins University studying Computer Science and Applied Mathematics & Statistics. My interests are generally in backend software engineering, database systems, and CS education. </p>
+Academically, distributed systems,
+operating systems, compiler design, and database design are of particular interest
+within computer science. My favorite electives outside of my major were mostly between linguistics and psychology courses.
+
+Outside of school, I also enjoy creating various software as side projects, some of which are featured on this
+site and on GitHub. My favorite activities that don't involve sitting in front of a screen include cooking, photography, and various physical activities such as hiking, dancing, dragon boat, and volleyball.
