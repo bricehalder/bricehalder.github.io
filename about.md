@@ -2,10 +2,7 @@
 title: About
 layout: page
 ---
-
-<a href="{{ site.url }}">
-<img src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" alt="Profile Image" />
-</a>
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 ### About
 
