@@ -1,12 +1,12 @@
 ---
-title: "Hi!"
+title: Hi!
 layout: post
 date: 2021-05-20 08:20
-image:
+image: null
 headerImage: false
 tag:
 - blog
-star: true
+star: false
 category: blog
 author: bricehalder
 description: First blog entry!
