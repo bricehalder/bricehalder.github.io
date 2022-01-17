@@ -1,6 +1,7 @@
 # main text of home
+title: Brice Halder
 name: Brice Halder
-bio: Code | Food | Teaching | Photography
+bio: Hi I'm Brice! Welcome to my website!
 
 # twitter summary info
 description: Blog for all sorts of things that I find interesting
@@ -55,7 +56,7 @@ email: bricehalder@gmail.com
 authors:
     bricehalder:
         name: Brice Halder
-        bio: Aspiring home cook
+        bio:
         external-image: false
         picture: assets/images/profile.jpg
         twitter:
