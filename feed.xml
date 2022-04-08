@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://bricehalder.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bricehalder.github.io/" rel="alternate" type="text/html" /><updated>2022-04-08T22:21:10+00:00</updated><id>https://bricehalder.github.io/feed.xml</id><title type="html">Brice Halder</title><subtitle>Blog for all sorts of things that I find interesting</subtitle><entry><title type="html">Various Paths to a Career in Tech</title><link href="https://bricehalder.github.io/career-in-tech/" rel="alternate" type="text/html" title="Various Paths to a Career in Tech" /><published>2022-04-08T13:14:00+00:00</published><updated>2022-04-08T13:14:00+00:00</updated><id>https://bricehalder.github.io/career-in-tech</id><content type="html" xml:base="https://bricehalder.github.io/career-in-tech/">&lt;p&gt;“Hey Brice, do you have any advice for getting into computer science/software engineering/coding/programming/&amp;lt;insert whatever it is I do here&amp;gt;?”&lt;/p&gt;
+
+&lt;p&gt;No one really asks me this – I probably started that conversation at even the faintest spark of interest. If you don’t know me personally, just know that I tend to get very excited talking about the things that I do. It really is a privilege to be able to pursue whatever happens to pique my interest, and I try to make liberal use of it.&lt;/p&gt;
+
+&lt;p&gt;My answers to the above question come in various flavors and opinions depending on the day and how much I feel like bashing Python. What remains consistent is that I’ve had – and will continue to have – this discussion with many of my close friends, inspiring me to aggregate my thoughts here before I stray infinitely further from my days as a college freshman, writing programs to calculate the final exam score I needed for grade cutoffs&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. In this blog post I will explicitly be focusing on my opinions with respect to getting into &lt;strong&gt;software engineering&lt;/strong&gt;, since that is typically the question.&lt;/p&gt;
+
+&lt;center&gt; *      *      * &lt;/center&gt;
+
+&lt;h2 id=&quot;education-good&quot;&gt;Education: Good&lt;/h2&gt;
+
+&lt;p&gt;If you have the time and bandwidth for a degree, whether it be a bachelor’s, master’s, post-baccalaureate, etc., I would suggest going that route. I think studying computer science allots you the freedom to pursue any domain you’d like, in addition to further academic pursuits like research and teaching. Keeping the scope limited to a career in software development, I will list a handful of areas that you could potentially work in:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Graphics, game engines, and game development&lt;/li&gt;
+  &lt;li&gt;Machine learning/data science&lt;/li&gt;
+  &lt;li&gt;Network engineer&lt;/li&gt;
+  &lt;li&gt;Cybersecurity&lt;/li&gt;
+  &lt;li&gt;iOS/Android development&lt;/li&gt;
+  &lt;li&gt;Robotics/human-computer interaction&lt;/li&gt;
+  &lt;li&gt;Traditional software engineering/web development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The list goes on. My understanding of bootcamps is that they do well in preparing people for a career in web development. If that is what you’re looking to get into - great! But I think there is a lot of value in taking the breadth of courses in a computer science degree and being exposed to various areas within the subject.&lt;/p&gt;
+
+&lt;p&gt;A degree also allows for the chance to work as a software engineer intern in the summer(s), since many companies require interns to be a full-time student. Some companies might also allow for part-time student status, but I’m not very confident about that. An internship is an incredibly valuable item to have on your resume, as actual work experience is valued by companies a lot more than projects. Anecdotally, my observations are that it is easier to enter into the “big tech”&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; pipeline as a fresh graduate with internship experience than it is as an industry hire:&lt;/p&gt;
+
+&lt;p&gt;1) Interning at a company can be a direct way to land a full-time position there with a return offer.&lt;/p&gt;
+
+&lt;p&gt;2) Internship and new graduate interviews are typically easier due to less rounds and no questions about system design.&lt;/p&gt;
+
+&lt;p&gt;3) The pool of applicants for internships and new graduate positions is smaller due to the limitation on student status.&lt;/p&gt;
+
+&lt;p&gt;Lastly, internships in software engineering generally pay &lt;a href=&quot;https://www.levels.fyi/internships/?track=Software%20Engineer&amp;amp;timeframe=2022%20%2F%202021&quot;&gt;quite&lt;/a&gt; well.&lt;/p&gt;
+
+&lt;h2 id=&quot;bootcamp-not-bad&quot;&gt;Bootcamp: Not Bad&lt;/h2&gt;
+&lt;p&gt;For the bootcamp route, you would reach the job hunting stage much faster than doing a degree. I would say &lt;em&gt;time&lt;/em&gt; is the largest savings by going this route. Financially, bootcamps seem to be similar in magnitude to  university tuition. Mentally, it will take a lot of dedication to learn and learn &lt;em&gt;well&lt;/em&gt; the sheer amount of material. You’ll focus on just the topics relevant to software engineering/web development, which is a plus if you don’t see yourself going into/not interested in the other fields.&lt;/p&gt;
+
+&lt;p&gt;After completing a bootcamp, it would be enough to get your foot in the door. I would surmise that after a few years in the software engineering industry, whether you went to a bootcamp or received a degree would be negligible. Landing that first job will be the toughest. For a reputable bootcamp however, you should be able to leverage the alumni network to assist in getting that first job.&lt;/p&gt;
+
+&lt;h2 id=&quot;self-taught-&quot;&gt;Self-Taught: ???&lt;/h2&gt;
+&lt;p&gt;This is also an option that I initially did not plan on writing about. Honestly, you have to be incredibly self-motivated to go this route. The benefit of both university and bootcamp is that they provide a structured learning environment with enforced deadlines to assist you through the ocean of course material. Talking and working through problems with your peers is an amazing benefit for learning, as well as having access to professors and TAs. I believe that these relationships and connections that you form with your peers are what make the cost worth it.&lt;/p&gt;
+
+&lt;p&gt;However, if you choose to take on this grand task, you can have comfort in that people have trekked this path before. They have went on to make structured, open-source education into a tangible reality. The knowledge is out there. If you are able to thrive in this sort of environment, then more power to you. Here are some suggestions that appear to be fairly solid:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://teachyourselfcs.com/&quot;&gt;https://teachyourselfcs.com/&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Overview of various areas within computer science&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ossu/computer-science&quot;&gt;https://github.com/ossu/computer-science&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Well-maintained, fully open-source course curriculum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cs50.harvard.edu/x&quot;&gt;https://cs50.harvard.edu/x&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Good option for an introductory course&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Full disclosure that I haven’t personally completed any of these, these recommendations are just from my brief search for resources and how they line up with my expectations of a good computer science foundation.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-final-note&quot;&gt;A Final Note&lt;/h2&gt;
+&lt;p&gt;My suggestion, for anyone getting into this field, would be to work on a handful of projects you actually care about. They don’t have to  change the world, just find something that you want to make or a problem that you want to solve, and use code to do it. Use Google a lot – Stack Overflow will become your best friend.&lt;/p&gt;
+
+&lt;p&gt;My background of going to school to study computer science for four years obviously has a major influence on my views. I wish I could write more about the bootcamp side, but I am limited by my experience. As with most things in this field, there are some clear tradeoffs between these different paths – it is up to you and how much you value &lt;em&gt;time, content, and structure&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Personally, I would not be at my current job without having gone through several fundamental classes such as operating systems, distributed systems, compilers, etc. that fostered an interest in designing and building large systems. I don’t necessarily use the information I learned in these classes on a daily basis, but it is more in terms of how I think and work.&lt;/p&gt;
+
+&lt;p&gt;That’s it for this post – thank you so much for reading if you made it down here! Writing has always been a challenge for me, but I am trying to push a bit out of my comfort zone for the sake of good documentation.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;Thank you to Melody for reading a draft of this post, Flora for making me write down my initial thoughts, and Addison for inspiring me to start writing a blog of my own (go check out his cool &lt;a href=&quot;https://cs198.org/&quot;&gt;course&lt;/a&gt;, which covers stuff that every programmer should know!).&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The beauty of version control - this (un)fortunately still exists, as long as GitHub/Microsoft allows for it: &lt;a href=&quot;https://github.com/bricehalder/GPA-GitHubPractice&quot;&gt;https://github.com/bricehalder/GPA-GitHubPractice&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;del&gt;Facebook&lt;/del&gt; Meta, Google, Amazon, Microsoft, etc… there are a lot more places to work at than these, but the large companies in particular have well-defined processes and pipelines for recruiting. I also happen to work at one, so I am most familiar with that process. Choosing where to work could easily be an entirely new blog post :P &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>bricehalder</name></author><category term="blog" /><category term="blog" /><category term="tech" /><summary type="html">“Hey Brice, do you have any advice for getting into computer science/software engineering/coding/programming/&amp;lt;insert whatever it is I do here&amp;gt;?”</summary></entry><entry><title type="html">HopHacks</title><link href="https://bricehalder.github.io/hophacks/" rel="alternate" type="text/html" title="HopHacks" /><published>2022-01-17T16:21:00+00:00</published><updated>2022-01-17T16:21:00+00:00</updated><id>https://bricehalder.github.io/hophacks</id><content type="html" xml:base="https://bricehalder.github.io/hophacks/">&lt;p&gt;In the fall of my sophomore year, I joined the Website team for &lt;a href=&quot;https://hophacks.com/&quot;&gt;HopHacks&lt;/a&gt;, JHU’s annual hackathon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/hh1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was my first extended web development project. When I joined the team, our stack was comprised of a React frontend, a MongoDB database, and &lt;a href=&quot;https://www.meteor.com/&quot;&gt;MeteorJS&lt;/a&gt; tying everything together. Meteor turned out to cause us more problems down the line, so in 2020-2021 the backend was rewritten in Flask.&lt;/p&gt;
+
+&lt;p&gt;In 2020, we transitioned to hosting a fully virtual hackathon conducted through Discord and Zoom. One of the cool things I picked up during this time is learning to code bots for Discord, which we used to automate our check-in process.&lt;/p&gt;</content><author><name>bricehalder</name></author><category term="project" /><category term="projects" /><summary type="html">In the fall of my sophomore year, I joined the Website team for HopHacks, JHU’s annual hackathon.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bricehalder.github.io/assets/images/hh.png" /><media:content medium="image" url="https://bricehalder.github.io/assets/images/hh.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">WikiSpeedruns</title><link href="https://bricehalder.github.io/wikispeedruns/" rel="alternate" type="text/html" title="WikiSpeedruns" /><published>2022-01-17T16:21:00+00:00</published><updated>2022-01-17T16:21:00+00:00</updated><id>https://bricehalder.github.io/wikispeedruns</id><content type="html" xml:base="https://bricehalder.github.io/wikispeedruns/">&lt;p&gt;Wikipedia Speedrunning is an activity where you try to get from one Wikipedia page to another using only the links on the Wikipedia pages. My friends from college and I are building a site that allows people to compete against one another. We currently have a ranking system to support a leaderboard, and we are building out different gamemodes as well.&lt;/p&gt;
+
+&lt;p&gt;You can try our game &lt;a href=&quot;https://wikispeedruns.com/&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;</content><author><name>bricehalder</name></author><category term="project" /><category term="projects" /><summary type="html">Wikipedia Speedrunning is an activity where you try to get from one Wikipedia page to another using only the links on the Wikipedia pages. My friends from college and I are building a site that allows people to compete against one another. We currently have a ranking system to support a leaderboard, and we are building out different gamemodes as well.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bricehalder.github.io/assets/images/wiki.jpeg" /><media:content medium="image" url="https://bricehalder.github.io/assets/images/wiki.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">About Me in May 2021</title><link href="https://bricehalder.github.io/about-me-in-may-2021/" rel="alternate" type="text/html" title="About Me in May 2021" /><published>2022-01-17T03:01:00+00:00</published><updated>2022-01-17T03:01:00+00:00</updated><id>https://bricehalder.github.io/about-me-in-may-2021</id><content type="html" xml:base="https://bricehalder.github.io/about-me-in-may-2021/">&lt;p&gt;I’m rewriting the About Me section on my website to be more up-to-date with myself as of January 2022. My experiences make me who I am today, so I think it’s worthwhile to keep around my old thoughts. A text-based time machine, of sorts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hi! I just graduated from Johns Hopkins University with a B.S. in Computer Science.
+I like to explore a new topic every few months or so, which makes it difficult to
+give an overview of all my interests - but I’ll try my best!
+I hope to document and share some of them here.&lt;/p&gt;
+
+&lt;p&gt;Academically, distributed systems,
+operating systems, compiler design, and database design are of particular interest
+within computer science. My favorite electives outside of my major were mostly between linguistics and psychology courses.
+Another passion of mine is sharing knowledge with others - especially people with budding interests in my fields.
+During my undergrad, I spent multiple semesters as a course assistant for JHU’s introductory computer science course,
+as well as teaching one-on-one classes online.&lt;/p&gt;
+
+&lt;p&gt;Outside of school, I also enjoy creating various software as side projects, some of which are featured on this
+site and on GitHub. My favorite activities that don’t involve sitting in front of a screen include cooking, photography, and various physical activities such as hiking, dancing, dragon boat, and volleyball.&lt;/p&gt;</content><author><name>bricehalder</name></author><category term="blog" /><category term="blog" /><summary type="html">I’m rewriting the About Me section on my website to be more up-to-date with myself as of January 2022. My experiences make me who I am today, so I think it’s worthwhile to keep around my old thoughts. A text-based time machine, of sorts.</summary></entry><entry><title type="html">Hi!</title><link href="https://bricehalder.github.io/first-entry/" rel="alternate" type="text/html" title="Hi!" /><published>2021-05-20T08:20:00+00:00</published><updated>2021-05-20T08:20:00+00:00</updated><id>https://bricehalder.github.io/first-entry</id><content type="html" xml:base="https://bricehalder.github.io/first-entry/">&lt;h3 id=&quot;hi-there&quot;&gt;Hi there!&lt;/h3&gt;
+
+&lt;p&gt;Welcome to my website, where I hope to share the things I do in my life that inspire me enough to write about them. As a byproduct, I hope to improve my documentation and narrative writing skills by writing blog posts. Of course, coding this is fun for me as well.&lt;/p&gt;
+
+&lt;p&gt;Overall, the site is quite unfinished as of writing this post, but I’m excited to finally get this set up.&lt;/p&gt;
+
+&lt;p&gt;Enjoy your stay!&lt;/p&gt;
+
+&lt;p&gt;-Brice&lt;/p&gt;</content><author><name>bricehalder</name></author><category term="blog" /><category term="blog" /><summary type="html">Hi there!</summary></entry></feed>
